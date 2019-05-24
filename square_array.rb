@@ -4,5 +4,4 @@ def square_array(array)
     array.push(num ** 2)
     array.shift
   end
-  array
 end
